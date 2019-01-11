@@ -1,12 +1,12 @@
 <template>
-  <div class="home">
+  <div class="Page404">
     <img alt="Vue logo" src="../assets/logo.png">
-    <h1>Home page</h1>
+    <h1>404 Page</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'home'
-}
+  name: "Page404"
+};
 </script>
